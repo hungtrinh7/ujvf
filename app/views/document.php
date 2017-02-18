@@ -5,7 +5,7 @@
        */ ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <title><?= single_post_title() ?> <?= site_title() ?></title>
     <link rel="alternate" type="application/rss+xml" title="<?= site_title() ?>'s Feed" href="/feed" />
